@@ -1,4 +1,4 @@
-# SecurlyPartialDisabler
+# SecurlyDisabler
 Disable securlys website blocking features
 
 ## Prerequisites
