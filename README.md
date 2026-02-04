@@ -17,3 +17,6 @@ If you need help start a discussion and I will try to respond
 
 ## Todo
 Add images
+
+## Credit
+Discovered by Booogyboooo (me)
